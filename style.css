@@ -12,10 +12,12 @@ html
 }
 span
 {
-    color: #FD7400;
+    /* color: #FD7400; */
+    color: #Fe7430;
 }
 #top-section
 {
+    /* width: 100%; */
     width: 100%;
     height: 100vh;
     overflow: hidden;
